@@ -6,6 +6,7 @@ SoC FPGA interface HDL codes
   - SoC/FPGA boards with FMC peripheral
   - NT1065 front-end with LPC FMC peripheral
   - Xilinx Vivado/Vitis design tool
+![image](https://user-images.githubusercontent.com/84130776/177437129-ee84a872-4626-4229-87ea-1c4af36efe05.png)
 
 *** SPI interface ***
 SPI interface code in Verilog HDL for a 12-bit ADC using Quartus Prime, ModelSim and SignalTap for Altera's Cyclone IV DE0-Nano Eval board and can easily be modified for other SPI interface specifications also using Xilinx Vivado/Vitis
